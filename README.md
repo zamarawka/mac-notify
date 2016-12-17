@@ -5,7 +5,7 @@ Simpliest and slimmest notifier for Mac without dependecies. Only 39 lines.
 ## Use it
 Install:
 ```sh
-$ npm i mac-notify
+$ npm i --save-dev mac-notify
 ```
 
 In your code:
